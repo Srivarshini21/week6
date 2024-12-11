@@ -22,7 +22,7 @@ class helloworld
                     }
                 }
                 if(flag==0)
-                    System.out.print(i+" ");
+                    System.out.print(i+" ")
             }
     }
 }
